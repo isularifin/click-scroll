@@ -1,5 +1,5 @@
 # Click-scroll
-Simple smooth scroll and scrollspy using jquery
+Simple smooth scroll plus scrollspy using jquery
 
 ## Documentation
 **JS Setting**
@@ -7,7 +7,7 @@ Simple smooth scroll and scrollspy using jquery
 ```
 var sectionArray = [1,2,3,4,5]
 ```
-it's assume that you are have 5 section. If you have only 4 you can change it with [1,2,3,4]. And if you have six section, you can hange it with [1,2,3,4,5,6]
+it's assume that you are have 5 section. If you have only 4 you can change it with [1,2,3,4]. And if you have six section, you can change it with [1,2,3,4,5,6]
 
 **HTML setting**
 
