@@ -18,4 +18,6 @@ it's assume that you are have 5 section. If you have only 4 you can change it wi
 <section id="section_4">Section 4</section>
 <section id="section_5">Section 5</section>
 ```
+##Demo
+http://isul.net/demo/click-scroll
 
